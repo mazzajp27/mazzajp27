@@ -1,5 +1,9 @@
 # 🚀 Sobre mim:
-Sou um estudante e profissional dedicado em TI, com experiência em diversos projetos desafiadores que me permitiram desenvolver habilidades em Microsoft Office, Power BI, Power Automate e Python. Sou apaixonado por desenvolvimento de software e tenho um forte compromisso com a excelência e a inovação.<br><br>Atualmente, trabalho como estagiário na ApexBrasil, onde sou responsável pelo apoio à análise e desenvolvimento de sistemas, entre outras tarefas.<br><br>Sou um aprendiz e sempre busco expandir meus conhecimentos e habilidades por meio de cursos, workshops e networking com outros profissionais da minha área. Acredito no poder da colaboração e na importância de um ambiente de trabalho inclusivo e motivador.
+Sou um profissional dedicado e estudante de Tecnologia da Informação, com experiência em projetos desafiadores que me permitiram desenvolver habilidades em Python, FastAPI, DevOps, Power BI, Power Automate. Tenho grande interesse por desenvolvimento de software, automação e análise de dados, buscando sempre unir técnica, boas práticas e inovação para criar soluções que gerem valor.
+
+Durante meu estágio na ApexBrasil, atuei no apoio e atendimento aos chamados do sistema Sydle, criei uma plataforma interna de indicações de profissionais de saúde utilizando o Microsoft Lists e desenvolvi automações com Power Automate para otimizar fluxos internos. Além disso, realizei uma trilha de estudos em Python, FastAPI e DevOps, o que consolidou meus conhecimentos em desenvolvimento de software e integração de sistemas.
+
+Sou movido pela curiosidade e pelo aprendizado constante — busco aprimorar meus conhecimentos por meio de cursos, workshops e trocas com outros profissionais da área. Acredito no poder da colaboração, na importância de um ambiente de trabalho inclusivo e motivador, e em crescer junto com o time.
 
 
 ## 🌐 Socials:
