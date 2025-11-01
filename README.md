@@ -1,5 +1,5 @@
 # 🚀 Sobre mim:
-Sou um profissional dedicado e estudante de Tecnologia da Informação, com experiência em projetos desafiadores que me permitiram desenvolver habilidades em Python, FastAPI, DevOps, Power BI, Power Automate. Tenho grande interesse por desenvolvimento de software, automação e análise de dados, buscando sempre unir técnica, boas práticas e inovação para criar soluções que gerem valor.
+Sou um profissional dedicado e estudante de Tecnologia da Informação, com experiência em projetos desafiadores que me permitiram desenvolver habilidades em Python, FastAPI, DevOps, SQL, GIT, Power BI, Power Automate. Tenho grande interesse por desenvolvimento de software, automação e análise de dados, buscando sempre unir técnica, boas práticas e inovação para criar soluções que gerem valor.
 
 Durante meu estágio na ApexBrasil, atuei no apoio e atendimento aos chamados do sistema Sydle, criei uma plataforma interna de indicações de profissionais de saúde utilizando o Microsoft Lists e desenvolvi automações com Power Automate para otimizar fluxos internos. Além disso, realizei uma trilha de estudos em Python, FastAPI e DevOps, que consolidou meus conhecimentos em desenvolvimento de software e integração de sistemas.
 
